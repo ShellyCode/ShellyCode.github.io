@@ -46,9 +46,7 @@ img.h:hover{
 }
 button.right{
 	position:absolute;
-	margin-left:-100px;
-	margin-right: 0px;
-	left:100%;
+	right:0px;
 	bottom:5px;
 
 }
