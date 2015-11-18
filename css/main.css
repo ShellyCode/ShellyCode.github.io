@@ -2,7 +2,7 @@ html, body {
 	height: 100%;
 }
 body{
-	background-image: URL("img/bg2.jpg");
+	background-image: URL("../img/bg2.jpg");
 }
 h1{
 	margin: 25px;
