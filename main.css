@@ -21,7 +21,8 @@ h1{
 
 }
 .fontsize1 {
-  font-size: 2vmin;
+  font-size: max(1.5vmax,12px);
+
 }
 .fontsize2 {
   font-size: 4vmin;
@@ -79,11 +80,11 @@ button.right{
 
 	padding: 25px;
 	width:100%;
-	margin:0px;
+	margin:0px 0px;
 }
 .wallstyle2 {
 	overflow:auto !important;  
-	margin:25px;
+	
 	width:100%;
 	padding: 25px;
 }
