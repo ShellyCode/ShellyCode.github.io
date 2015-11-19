@@ -2,7 +2,7 @@ html, body {
 	height: 100%;
 }
 body{
-	background-image: URL("img/bg2.jpg");
+	background-image: URL("img/bg2.JPG");
 }
 h1{
 	margin: 25px;
@@ -24,19 +24,9 @@ h1{
 	height:300px;
 
 }
-p {
+/*p {
   font-size: 2vmin;
-}
-
-.dark{
-	background:#999;
-}
-.darker{
-	background:#666;
-}
-.darkest{
-	background:#333;
-}
+}*/
 
 .image.fit
 {   margin:25px;
